@@ -1,0 +1,1160 @@
+2022-12-04 06:35:59.932 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 06:36:00.060 +01:00 [DBG] Hosting starting
+2022-12-04 06:36:00.356 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 06:36:00.535 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 06:36:00.535 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 06:36:00.535 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 06:36:00.535 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 06:36:00.535 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 06:36:00.535 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 06:36:00.538 +01:00 [INF] Hosting environment: Development
+2022-12-04 06:36:00.538 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 06:36:00.538 +01:00 [DBG] Hosting started
+2022-12-04 06:36:00.959 +01:00 [DBG] Connection id "0HMMLN5MOCNSU" accepted.
+2022-12-04 06:36:00.959 +01:00 [DBG] Connection id "0HMMLN5MOCNST" accepted.
+2022-12-04 06:36:00.961 +01:00 [DBG] Connection id "0HMMLN5MOCNST" started.
+2022-12-04 06:36:00.961 +01:00 [DBG] Connection id "0HMMLN5MOCNSU" started.
+2022-12-04 06:36:01.498 +01:00 [DBG] Connection id "0HMMLN5MOCNSV" accepted.
+2022-12-04 06:36:01.499 +01:00 [DBG] Connection id "0HMMLN5MOCNSV" started.
+2022-12-04 06:36:01.608 +01:00 [DBG] Connection 0HMMLN5MOCNSV established using the following protocol: "Tls13"
+2022-12-04 06:36:01.724 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 06:36:01.795 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 06:36:01.824 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 06:36:01.825 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:01.925 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 06:36:02.106 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 06:36:02.109 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 06:36:02.112 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 395.5006ms
+2022-12-04 06:36:02.123 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - -
+2022-12-04 06:36:02.123 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - -
+2022-12-04 06:36:02.123 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 14.0886ms
+2022-12-04 06:36:02.123 +01:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2022-12-04 06:36:02.123 +01:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2022-12-04 06:36:02.123 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:02.123 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:02.129 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 06:36:02.129 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 0.2080ms
+2022-12-04 06:36:02.136 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-12-04 06:36:02.136 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 13.2169ms
+2022-12-04 06:36:02.141 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-12-04 06:36:02.142 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 18.6519ms
+2022-12-04 06:36:02.428 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 06:36:02.470 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.3797ms
+2022-12-04 06:36:02.960 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 06:36:02.960 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 06:36:02.960 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:03.144 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 184.2639ms
+2022-12-04 06:36:03.546 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 06:36:03.556 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.1439ms
+2022-12-04 06:36:46.908 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 06:36:47.094 +01:00 [DBG] Hosting starting
+2022-12-04 06:36:47.301 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 06:36:47.336 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 06:36:47.336 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 06:36:47.336 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 06:36:47.336 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 06:36:47.336 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 06:36:47.337 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 06:36:47.337 +01:00 [INF] Hosting environment: Development
+2022-12-04 06:36:47.337 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 06:36:47.337 +01:00 [DBG] Hosting started
+2022-12-04 06:36:47.440 +01:00 [DBG] Connection id "0HMMLN64JLGER" accepted.
+2022-12-04 06:36:47.440 +01:00 [DBG] Connection id "0HMMLN64JLGES" accepted.
+2022-12-04 06:36:47.441 +01:00 [DBG] Connection id "0HMMLN64JLGER" started.
+2022-12-04 06:36:47.441 +01:00 [DBG] Connection id "0HMMLN64JLGES" started.
+2022-12-04 06:36:47.455 +01:00 [DBG] Connection id "0HMMLN64JLGER" received FIN.
+2022-12-04 06:36:47.455 +01:00 [DBG] Connection id "0HMMLN64JLGES" received FIN.
+2022-12-04 06:36:47.496 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 06:36:47.501 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 06:36:47.595 +01:00 [DBG] Connection id "0HMMLN64JLGES" stopped.
+2022-12-04 06:36:47.595 +01:00 [DBG] Connection id "0HMMLN64JLGER" stopped.
+2022-12-04 06:36:47.600 +01:00 [DBG] Connection id "0HMMLN64JLGER" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 06:36:47.600 +01:00 [DBG] Connection id "0HMMLN64JLGES" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 06:36:47.795 +01:00 [DBG] Connection id "0HMMLN64JLGET" accepted.
+2022-12-04 06:36:47.796 +01:00 [DBG] Connection id "0HMMLN64JLGET" started.
+2022-12-04 06:36:47.873 +01:00 [DBG] Connection 0HMMLN64JLGET established using the following protocol: "Tls13"
+2022-12-04 06:36:47.989 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 06:36:48.052 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 06:36:48.099 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 06:36:48.100 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:48.275 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 06:36:48.474 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 06:36:48.482 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 06:36:48.483 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 501.1007ms
+2022-12-04 06:36:48.496 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 13.2322ms
+2022-12-04 06:36:48.919 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 06:36:48.944 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.9568ms
+2022-12-04 06:36:49.568 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 06:36:49.569 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 06:36:49.569 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 06:36:49.821 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 251.9570ms
+2022-12-04 06:36:50.150 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 06:36:50.150 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 0.2721ms
+2022-12-04 06:36:50.158 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 06:36:50.167 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 9.5503ms
+2022-12-04 06:36:56.816 +01:00 [DBG] Connection id "0HMMLN64JLGEU" accepted.
+2022-12-04 06:36:56.816 +01:00 [DBG] Connection id "0HMMLN64JLGEU" started.
+2022-12-04 06:36:56.835 +01:00 [DBG] Connection 0HMMLN64JLGEU established using the following protocol: "Tls13"
+2022-12-04 06:36:56.859 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaPark/GetVillaParks - -
+2022-12-04 06:36:56.865 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 06:36:56.868 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)' with route pattern 'api/VillaPark/GetVillaParks' is valid for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 06:36:56.868 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:36:56.869 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 06:36:56.872 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:36:56.887 +01:00 [INF] Route matched with {action = "GetVillaParks", controller = "VillaParkAPI"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParks() on controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks).
+2022-12-04 06:36:56.888 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 06:36:56.888 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 06:36:56.888 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 06:36:56.888 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 06:36:56.889 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 06:36:56.889 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:36:57.188 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-12-04 06:36:58.091 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 06:36:58.199 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:36:58.201 +01:00 [INF] Getting all ParkVillas
+2022-12-04 06:36:58.440 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaPark>()'
+2022-12-04 06:36:58.615 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaPark>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: VillaPark.Amenity (string), 1], [Property: VillaPark.CreatedDate (DateTime) Required, 2], [Property: VillaPark.Details (string), 3], [Property: VillaPark.ImageUrl (string), 4], [Property: VillaPark.Name (string) Required, 5], [Property: VillaPark.Occupancy (int) Required, 6], [Property: VillaPark.Rate (double) Required, 7], [Property: VillaPark.Sqft (int) Required, 8], [Property: VillaPark.UpdatedDate (DateTime) Required, 9] }
+        SELECT v.Id, v.Amenity, v.CreatedDate, v.Details, v.ImageUrl, v.Name, v.Occupancy, v.Rate, v.Sqft, v.UpdatedDate
+        FROM VillaParks AS v), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaPark>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 06:36:58.674 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 06:36:58.718 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (41ms).
+2022-12-04 06:36:58.729 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:36:59.299 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:36:59.312 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 06:36:59.376 +01:00 [INF] Executed DbCommand (65ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 06:36:59.420 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:36:59.456 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:36:59.456 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:36:59.456 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:36:59.458 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:36:59.468 +01:00 [DBG] A data reader was disposed.
+2022-12-04 06:36:59.476 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:36:59.485 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:36:59.515 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 06:36:59.517 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 06:36:59.518 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 06:36:59.518 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 06:36:59.674 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks) in 2781.7739ms
+2022-12-04 06:36:59.676 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:36:59.677 +01:00 [DBG] Connection id "0HMMLN64JLGEU" completed keep alive response.
+2022-12-04 06:36:59.681 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 06:36:59.684 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaPark/GetVillaParks - - - 200 1494 application/json;+charset=utf-8 2825.5677ms
+2022-12-04 06:37:05.742 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaPark/2 - -
+2022-12-04 06:37:05.744 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaPark/2'
+2022-12-04 06:37:05.744 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)' with route pattern 'api/VillaPark/{id:int}' is valid for the request path '/api/VillaPark/2'
+2022-12-04 06:37:05.744 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:05.744 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 06:37:05.744 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:05.756 +01:00 [INF] Route matched with {action = "GetVillaParks", controller = "VillaParkAPI"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParks(Int32) on controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks).
+2022-12-04 06:37:05.756 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 06:37:05.756 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 06:37:05.756 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 06:37:05.756 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 06:37:05.756 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 06:37:05.756 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:05.801 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 06:37:05.801 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:05.806 +01:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' ...
+2022-12-04 06:37:05.808 +01:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ...
+2022-12-04 06:37:05.808 +01:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:05.808 +01:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:05.808 +01:00 [DBG] Attempting to validate the bound parameter 'id' of type 'System.Int32' ...
+2022-12-04 06:37:05.809 +01:00 [DBG] Done attempting to validate the bound parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:05.835 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaPark>()
+    .Where(v => v.Id == __id_0)
+    .FirstOrDefault()'
+2022-12-04 06:37:05.996 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<VillaPark>(
+    asyncEnumerable: new SingleQueryingEnumerable<VillaPark>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: VillaPark.Amenity (string), 1], [Property: VillaPark.CreatedDate (DateTime) Required, 2], [Property: VillaPark.Details (string), 3], [Property: VillaPark.ImageUrl (string), 4], [Property: VillaPark.Name (string) Required, 5], [Property: VillaPark.Occupancy (int) Required, 6], [Property: VillaPark.Rate (double) Required, 7], [Property: VillaPark.Sqft (int) Required, 8], [Property: VillaPark.UpdatedDate (DateTime) Required, 9] }
+            SELECT TOP(1) v.Id, v.Amenity, v.CreatedDate, v.Details, v.ImageUrl, v.Name, v.Occupancy, v.Rate, v.Sqft, v.UpdatedDate
+            FROM VillaParks AS v
+            WHERE v.Id == @__id_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaPark>, 
+        VilllaParks.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2022-12-04 06:37:06.009 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 06:37:06.009 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 06:37:06.013 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:06.014 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:06.022 +01:00 [DBG] Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__id_0
+2022-12-04 06:37:06.059 +01:00 [INF] Executed DbCommand (45ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__id_0
+2022-12-04 06:37:06.059 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:06.061 +01:00 [DBG] A data reader was disposed.
+2022-12-04 06:37:06.061 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:06.061 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:06.064 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 06:37:06.064 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 06:37:06.064 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 06:37:06.064 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 06:37:06.064 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks) in 307.7625ms
+2022-12-04 06:37:06.064 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:06.064 +01:00 [DBG] Connection id "0HMMLN64JLGEU" completed keep alive response.
+2022-12-04 06:37:06.064 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 06:37:06.064 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaPark/2 - - - 200 393 application/json;+charset=utf-8 322.0761ms
+2022-12-04 06:37:15.896 +01:00 [INF] Request starting HTTP/1.1 DELETE https://localhost:7001/api/VillaPark/2 - -
+2022-12-04 06:37:15.896 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaPark/2'
+2022-12-04 06:37:15.896 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkAPIController.DeleteVilla (VilllaParks)' with route pattern 'api/VillaPark/{id:int}' is valid for the request path '/api/VillaPark/2'
+2022-12-04 06:37:15.897 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkAPIController.DeleteVilla (VilllaParks)'
+2022-12-04 06:37:15.897 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 06:37:15.897 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkAPIController.DeleteVilla (VilllaParks)'
+2022-12-04 06:37:15.899 +01:00 [INF] Route matched with {action = "DeleteVilla", controller = "VillaParkAPI"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] DeleteVilla(Int32) on controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks).
+2022-12-04 06:37:15.899 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 06:37:15.899 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 06:37:15.899 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 06:37:15.899 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 06:37:15.899 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 06:37:15.899 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:15.909 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 06:37:15.909 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:15.910 +01:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' ...
+2022-12-04 06:37:15.910 +01:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ...
+2022-12-04 06:37:15.910 +01:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:15.910 +01:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:15.910 +01:00 [DBG] Attempting to validate the bound parameter 'id' of type 'System.Int32' ...
+2022-12-04 06:37:15.910 +01:00 [DBG] Done attempting to validate the bound parameter 'id' of type 'System.Int32'.
+2022-12-04 06:37:15.912 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaPark>()
+    .Where(x => x.Id == __id_0)
+    .FirstOrDefault()'
+2022-12-04 06:37:15.914 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<VillaPark>(
+    asyncEnumerable: new SingleQueryingEnumerable<VillaPark>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: VillaPark.Amenity (string), 1], [Property: VillaPark.CreatedDate (DateTime) Required, 2], [Property: VillaPark.Details (string), 3], [Property: VillaPark.ImageUrl (string), 4], [Property: VillaPark.Name (string) Required, 5], [Property: VillaPark.Occupancy (int) Required, 6], [Property: VillaPark.Rate (double) Required, 7], [Property: VillaPark.Sqft (int) Required, 8], [Property: VillaPark.UpdatedDate (DateTime) Required, 9] }
+            SELECT TOP(1) v.Id, v.Amenity, v.CreatedDate, v.Details, v.ImageUrl, v.Name, v.Occupancy, v.Rate, v.Sqft, v.UpdatedDate
+            FROM VillaParks AS v
+            WHERE v.Id == @__id_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaPark>, 
+        VilllaParks.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2022-12-04 06:37:15.915 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 06:37:15.915 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 06:37:15.915 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.915 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.915 +01:00 [DBG] Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__id_0
+2022-12-04 06:37:15.916 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__id_0
+2022-12-04 06:37:15.916 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:15.917 +01:00 [DBG] A data reader was disposed.
+2022-12-04 06:37:15.917 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.917 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.934 +01:00 [DBG] An entity of type 'VillaPark' tracked by 'ApplicationDbContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:15.946 +01:00 [DBG] SaveChanges starting for 'ApplicationDbContext'.
+2022-12-04 06:37:15.949 +01:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2022-12-04 06:37:15.970 +01:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2022-12-04 06:37:15.994 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.994 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:15.996 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2022-12-04 06:37:16.008 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2022-12-04 06:37:16.060 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 06:37:16.060 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 06:37:16.061 +01:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [VillaParks]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;
+2022-12-04 06:37:16.065 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [VillaParks]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;
+2022-12-04 06:37:16.072 +01:00 [DBG] A data reader was disposed.
+2022-12-04 06:37:16.078 +01:00 [DBG] Committing transaction.
+2022-12-04 06:37:16.084 +01:00 [DBG] Committed transaction.
+2022-12-04 06:37:16.089 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:16.089 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:16.093 +01:00 [DBG] Disposing transaction.
+2022-12-04 06:37:16.101 +01:00 [DBG] An entity of type 'VillaPark' tracked by 'ApplicationDbContext' changed state from '"Deleted"' to '"Detached"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:16.105 +01:00 [DBG] SaveChanges completed for 'ApplicationDbContext' with 1 entities written to the database.
+2022-12-04 06:37:16.105 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 06:37:16.105 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 06:37:16.105 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 06:37:16.105 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 06:37:16.105 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkAPIController.DeleteVilla (VilllaParks) in 206.2466ms
+2022-12-04 06:37:16.105 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkAPIController.DeleteVilla (VilllaParks)'
+2022-12-04 06:37:16.105 +01:00 [DBG] Connection id "0HMMLN64JLGEU" completed keep alive response.
+2022-12-04 06:37:16.105 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 06:37:16.105 +01:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7001/api/VillaPark/2 - - - 200 69 application/json;+charset=utf-8 209.1193ms
+2022-12-04 06:37:17.259 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaPark/GetVillaParks - -
+2022-12-04 06:37:17.259 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 06:37:17.260 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)' with route pattern 'api/VillaPark/GetVillaParks' is valid for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 06:37:17.260 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:17.260 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 06:37:17.260 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:17.260 +01:00 [INF] Route matched with {action = "GetVillaParks", controller = "VillaParkAPI"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParks() on controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks).
+2022-12-04 06:37:17.260 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 06:37:17.260 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 06:37:17.260 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 06:37:17.260 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 06:37:17.260 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 06:37:17.260 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:17.261 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 06:37:17.261 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 06:37:17.261 +01:00 [INF] Getting all ParkVillas
+2022-12-04 06:37:17.262 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 06:37:17.262 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 06:37:17.262 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:17.262 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:17.262 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 06:37:17.262 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 06:37:17.263 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:17.263 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:17.263 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:17.263 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 06:37:17.263 +01:00 [DBG] A data reader was disposed.
+2022-12-04 06:37:17.263 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:17.263 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 06:37:17.263 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 06:37:17.263 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 06:37:17.263 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 06:37:17.263 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 06:37:17.263 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks) in 3.2261ms
+2022-12-04 06:37:17.264 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 06:37:17.264 +01:00 [DBG] Connection id "0HMMLN64JLGEU" completed keep alive response.
+2022-12-04 06:37:17.264 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 06:37:17.264 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaPark/GetVillaParks - - - 200 1165 application/json;+charset=utf-8 4.3066ms
+2022-12-04 08:24:54.087 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 08:24:54.200 +01:00 [DBG] Hosting starting
+2022-12-04 08:24:54.376 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 08:24:54.421 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 08:24:54.421 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 08:24:54.421 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 08:24:54.421 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 08:24:54.421 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 08:24:54.422 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 08:24:54.422 +01:00 [INF] Hosting environment: Development
+2022-12-04 08:24:54.422 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 08:24:54.422 +01:00 [DBG] Hosting started
+2022-12-04 08:24:54.713 +01:00 [DBG] Connection id "0HMMLP2HV5OSP" received FIN.
+2022-12-04 08:24:54.718 +01:00 [DBG] Connection id "0HMMLP2HV5OSQ" received FIN.
+2022-12-04 08:24:54.731 +01:00 [DBG] Connection id "0HMMLP2HV5OSP" accepted.
+2022-12-04 08:24:54.731 +01:00 [DBG] Connection id "0HMMLP2HV5OSQ" accepted.
+2022-12-04 08:24:54.736 +01:00 [DBG] Connection id "0HMMLP2HV5OSP" started.
+2022-12-04 08:24:54.736 +01:00 [DBG] Connection id "0HMMLP2HV5OSQ" started.
+2022-12-04 08:24:54.781 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 08:24:54.781 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 08:24:54.842 +01:00 [DBG] Connection id "0HMMLP2HV5OSP" stopped.
+2022-12-04 08:24:54.842 +01:00 [DBG] Connection id "0HMMLP2HV5OSQ" stopped.
+2022-12-04 08:24:54.845 +01:00 [DBG] Connection id "0HMMLP2HV5OSP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 08:24:54.845 +01:00 [DBG] Connection id "0HMMLP2HV5OSQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 08:24:54.987 +01:00 [DBG] Connection id "0HMMLP2HV5OSR" accepted.
+2022-12-04 08:24:54.987 +01:00 [DBG] Connection id "0HMMLP2HV5OSR" started.
+2022-12-04 08:24:55.037 +01:00 [DBG] Connection 0HMMLP2HV5OSR established using the following protocol: "Tls13"
+2022-12-04 08:24:55.117 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 08:24:55.169 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 08:24:55.204 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 08:24:55.204 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:24:55.337 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 08:24:55.501 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 08:24:55.511 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 08:24:55.516 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 403.7679ms
+2022-12-04 08:24:55.526 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 14.9538ms
+2022-12-04 08:24:55.904 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 08:24:55.933 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.0465ms
+2022-12-04 08:24:56.467 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 08:24:56.467 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 08:24:56.467 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:24:56.658 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 191.4215ms
+2022-12-04 08:25:20.975 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 08:25:20.990 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 08:25:20.998 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 08:25:20.999 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:25:21.001 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 08:25:21.005 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:25:21.038 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 08:25:21.039 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 08:25:21.039 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 08:25:21.040 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 08:25:21.040 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 08:25:21.040 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 08:25:21.041 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 08:25:21.551 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-12-04 08:25:22.539 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 08:25:22.669 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 08:25:23.056 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaParkNumber>()'
+2022-12-04 08:25:23.309 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaParkNumber>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaParkNumber.VillaParkNo (int) Required PK AfterSave:Throw, 0], [Property: VillaParkNumber.CreatedDate (DateTime) Required, 1], [Property: VillaParkNumber.SpecialDetails (string), 2], [Property: VillaParkNumber.UpdatedDate (DateTime) Required, 3], [Property: VillaParkNumber.VillaParkID (int) Required FK Index, 4] }
+        SELECT v.VillaParkNo, v.CreatedDate, v.SpecialDetails, v.UpdatedDate, v.VillaParkID
+        FROM VillaParkNumbers AS v), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaParkNumber>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 08:25:23.373 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 08:25:23.460 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (81ms).
+2022-12-04 08:25:23.474 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:25:24.401 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:25:24.418 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+2022-12-04 08:25:24.487 +01:00 [INF] Executed DbCommand (72ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+2022-12-04 08:25:24.516 +01:00 [DBG] A data reader was disposed.
+2022-12-04 08:25:24.524 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:25:24.535 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:25:24.564 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 08:25:24.567 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-12-04 08:25:24.567 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-12-04 08:25:24.568 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-12-04 08:25:24.568 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-12-04 08:25:24.568 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 08:25:24.568 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 08:25:24.732 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 3686.9257ms
+2022-12-04 08:25:24.733 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:25:24.740 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 08:25:24.744 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 67 application/json;+charset=utf-8 3768.5690ms
+2022-12-04 08:27:37.751 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 08:27:37.862 +01:00 [DBG] Hosting starting
+2022-12-04 08:27:38.054 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 08:27:38.114 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 08:27:38.114 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 08:27:38.114 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 08:27:38.114 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 08:27:38.114 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 08:27:38.114 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 08:27:38.115 +01:00 [INF] Hosting environment: Development
+2022-12-04 08:27:38.115 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 08:27:38.115 +01:00 [DBG] Hosting started
+2022-12-04 08:27:38.433 +01:00 [DBG] Connection id "0HMMLP42OGR5K" received FIN.
+2022-12-04 08:27:38.453 +01:00 [DBG] Connection id "0HMMLP42OGR5K" accepted.
+2022-12-04 08:27:38.458 +01:00 [DBG] Connection id "0HMMLP42OGR5K" started.
+2022-12-04 08:27:38.550 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 08:27:38.628 +01:00 [DBG] Connection id "0HMMLP42OGR5K" stopped.
+2022-12-04 08:27:38.631 +01:00 [DBG] Connection id "0HMMLP42OGR5K" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 08:27:38.829 +01:00 [DBG] Connection id "0HMMLP42OGR5L" accepted.
+2022-12-04 08:27:38.829 +01:00 [DBG] Connection id "0HMMLP42OGR5L" started.
+2022-12-04 08:27:38.907 +01:00 [DBG] Connection 0HMMLP42OGR5L established using the following protocol: "Tls13"
+2022-12-04 08:27:38.994 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 08:27:39.043 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 08:27:39.075 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 08:27:39.075 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:27:39.189 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 08:27:39.340 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 08:27:39.346 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 356.6642ms
+2022-12-04 08:27:39.360 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 08:27:39.365 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 4.3503ms
+2022-12-04 08:27:39.752 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 08:27:39.784 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.7589ms
+2022-12-04 08:27:40.338 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 08:27:40.338 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 08:27:40.338 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:27:40.520 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 182.1477ms
+2022-12-04 08:28:33.843 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 08:28:33.849 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 08:28:33.849 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:28:33.855 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 08:28:33.868 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 08:28:33.868 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 25.4033ms
+2022-12-04 08:28:33.902 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 08:28:33.903 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 0.4470ms
+2022-12-04 08:28:34.219 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 08:28:34.231 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 11.7541ms
+2022-12-04 08:28:35.627 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 08:28:35.627 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 08:28:35.627 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 08:28:35.645 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 18.4032ms
+2022-12-04 08:28:52.442 +01:00 [DBG] Connection id "0HMMLP42OGR5M" accepted.
+2022-12-04 08:28:52.442 +01:00 [DBG] Connection id "0HMMLP42OGR5M" started.
+2022-12-04 08:28:52.474 +01:00 [DBG] Connection 0HMMLP42OGR5M established using the following protocol: "Tls13"
+2022-12-04 08:28:52.503 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 08:28:52.510 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 08:28:52.513 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 08:28:52.513 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:28:52.514 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 08:28:52.516 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:28:52.533 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 08:28:52.533 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 08:28:52.534 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 08:28:52.534 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 08:28:52.534 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 08:28:52.534 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 08:28:52.535 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 08:28:52.942 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-12-04 08:28:53.910 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 08:28:54.030 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 08:28:54.381 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaParkNumber>()'
+2022-12-04 08:28:54.581 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaParkNumber>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaParkNumber.VillaParkNo (int) Required PK AfterSave:Throw, 0], [Property: VillaParkNumber.CreatedDate (DateTime) Required, 1], [Property: VillaParkNumber.SpecialDetails (string), 2], [Property: VillaParkNumber.UpdatedDate (DateTime) Required, 3], [Property: VillaParkNumber.VillaParkID (int) Required FK Index, 4] }
+        SELECT v.VillaParkNo, v.CreatedDate, v.SpecialDetails, v.UpdatedDate, v.VillaParkID
+        FROM VillaParkNumbers AS v), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaParkNumber>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 08:28:54.639 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 08:28:54.685 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (42ms).
+2022-12-04 08:28:54.697 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:28:55.577 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:28:55.592 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+2022-12-04 08:28:55.673 +01:00 [INF] Executed DbCommand (81ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+2022-12-04 08:28:55.705 +01:00 [DBG] A data reader was disposed.
+2022-12-04 08:28:55.714 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:28:55.725 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 08:28:55.756 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 08:28:55.759 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 08:28:55.759 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 08:28:55.759 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 08:28:55.916 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 3378.1296ms
+2022-12-04 08:28:55.918 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 08:28:55.919 +01:00 [DBG] Connection id "0HMMLP42OGR5M" completed keep alive response.
+2022-12-04 08:28:55.923 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 08:28:55.927 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 67 application/json;+charset=utf-8 3424.4774ms
+2022-12-04 11:51:02.052 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 11:51:02.142 +01:00 [DBG] Hosting starting
+2022-12-04 11:51:02.291 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 11:51:02.319 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 11:51:02.319 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 11:51:02.319 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 11:51:02.319 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 11:51:02.319 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 11:51:02.320 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 11:51:02.320 +01:00 [INF] Hosting environment: Development
+2022-12-04 11:51:02.320 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 11:51:02.320 +01:00 [DBG] Hosting started
+2022-12-04 11:51:02.332 +01:00 [DBG] Connection id "0HMMLSLNPVL5E" received FIN.
+2022-12-04 11:51:02.334 +01:00 [DBG] Connection id "0HMMLSLNPVL5F" received FIN.
+2022-12-04 11:51:02.342 +01:00 [DBG] Connection id "0HMMLSLNPVL5E" accepted.
+2022-12-04 11:51:02.342 +01:00 [DBG] Connection id "0HMMLSLNPVL5F" accepted.
+2022-12-04 11:51:02.344 +01:00 [DBG] Connection id "0HMMLSLNPVL5E" started.
+2022-12-04 11:51:02.344 +01:00 [DBG] Connection id "0HMMLSLNPVL5F" started.
+2022-12-04 11:51:02.365 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 11:51:02.365 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 11:51:02.413 +01:00 [DBG] Connection id "0HMMLSLNPVL5E" stopped.
+2022-12-04 11:51:02.413 +01:00 [DBG] Connection id "0HMMLSLNPVL5F" stopped.
+2022-12-04 11:51:02.418 +01:00 [DBG] Connection id "0HMMLSLNPVL5F" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 11:51:02.418 +01:00 [DBG] Connection id "0HMMLSLNPVL5E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 11:51:02.567 +01:00 [DBG] Connection id "0HMMLSLNPVL5G" accepted.
+2022-12-04 11:51:02.570 +01:00 [DBG] Connection id "0HMMLSLNPVL5G" started.
+2022-12-04 11:51:02.626 +01:00 [DBG] Connection 0HMMLSLNPVL5G established using the following protocol: "Tls13"
+2022-12-04 11:51:02.729 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 11:51:02.794 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 11:51:02.828 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 11:51:02.829 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 11:51:02.958 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 11:51:03.118 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 11:51:03.127 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 405.5131ms
+2022-12-04 11:51:03.137 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 11:51:03.143 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 5.8961ms
+2022-12-04 11:51:03.789 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 11:51:03.839 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.0839ms
+2022-12-04 11:51:04.923 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 11:51:04.923 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 11:51:04.923 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 11:51:05.124 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 200.8518ms
+2022-12-04 11:51:13.774 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 11:51:13.789 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:51:13.798 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:51:13.798 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:51:13.801 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:51:13.809 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:51:13.851 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:51:13.853 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:51:13.853 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:51:13.854 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:51:13.855 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:51:13.855 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:51:13.857 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:51:14.482 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-12-04 11:51:16.613 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:51:16.873 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:51:17.387 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaParkNumber>()
+    .Include("VillaPark")'
+2022-12-04 11:51:17.753 +01:00 [DBG] Including navigation: 'VillaParkNumber.VillaPark'.
+2022-12-04 11:51:18.331 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaParkNumber>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: VillaParkNumber.VillaParkNo (int) Required PK AfterSave:Throw, 0], [Property: VillaParkNumber.CreatedDate (DateTime) Required, 1], [Property: VillaParkNumber.SpecialDetails (string), 2], [Property: VillaParkNumber.UpdatedDate (DateTime) Required, 3], [Property: VillaParkNumber.VillaParkID (int) Required FK Index, 4] }
+            1 -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 5], [Property: VillaPark.Amenity (string), 6], [Property: VillaPark.CreatedDate (DateTime) Required, 7], [Property: VillaPark.Details (string), 8], [Property: VillaPark.ImageUrl (string), 9], [Property: VillaPark.Name (string) Required, 10], [Property: VillaPark.Occupancy (int) Required, 11], [Property: VillaPark.Rate (double) Required, 12], [Property: VillaPark.Sqft (int) Required, 13], [Property: VillaPark.UpdatedDate (DateTime) Required, 14] }
+        SELECT v.VillaParkNo, v.CreatedDate, v.SpecialDetails, v.UpdatedDate, v.VillaParkID, v0.Id, v0.Amenity, v0.CreatedDate, v0.Details, v0.ImageUrl, v0.Name, v0.Occupancy, v0.Rate, v0.Sqft, v0.UpdatedDate
+        FROM VillaParkNumbers AS v
+        INNER JOIN VillaParks AS v0 ON v.VillaParkID == v0.Id), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaParkNumber>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 11:51:18.478 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:51:18.580 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (92ms).
+2022-12-04 11:51:18.606 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:51:19.869 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:51:19.898 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:51:20.059 +01:00 [INF] Executed DbCommand (165ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:51:20.121 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:51:20.140 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:51:20.168 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:51:20.234 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:51:20.241 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-12-04 11:51:20.242 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-12-04 11:51:20.242 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-12-04 11:51:20.242 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-12-04 11:51:20.243 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:51:20.243 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:51:20.593 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 6728.4489ms
+2022-12-04 11:51:20.596 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:51:20.608 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:51:20.616 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 67 application/json;+charset=utf-8 6841.7565ms
+2022-12-04 11:53:45.362 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-04 11:53:45.630 +01:00 [DBG] Hosting starting
+2022-12-04 11:53:46.240 +01:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 1E62B8A0F1369845EDE3892645BAA3A27A223BD0)
+2022-12-04 11:53:46.294 +01:00 [INF] Now listening on: https://localhost:7001
+2022-12-04 11:53:46.294 +01:00 [INF] Now listening on: http://localhost:5061
+2022-12-04 11:53:46.294 +01:00 [DBG] Loaded hosting startup assembly VilllaParks
+2022-12-04 11:53:46.294 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-04 11:53:46.294 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-04 11:53:46.294 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-04 11:53:46.298 +01:00 [INF] Hosting environment: Development
+2022-12-04 11:53:46.301 +01:00 [INF] Content root path: C:\Users\Decagon\source\apiProjects\VilllaParks\
+2022-12-04 11:53:46.301 +01:00 [DBG] Hosting started
+2022-12-04 11:53:46.675 +01:00 [DBG] Connection id "0HMMLSN8P92GR" received FIN.
+2022-12-04 11:53:46.695 +01:00 [DBG] Connection id "0HMMLSN8P92GR" accepted.
+2022-12-04 11:53:46.698 +01:00 [DBG] Connection id "0HMMLSN8P92GR" started.
+2022-12-04 11:53:46.736 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2022-12-04 11:53:46.810 +01:00 [DBG] Connection id "0HMMLSN8P92GR" stopped.
+2022-12-04 11:53:46.816 +01:00 [DBG] Connection id "0HMMLSN8P92GR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-12-04 11:53:47.016 +01:00 [DBG] Connection id "0HMMLSN8P92GS" accepted.
+2022-12-04 11:53:47.017 +01:00 [DBG] Connection id "0HMMLSN8P92GS" started.
+2022-12-04 11:53:47.104 +01:00 [DBG] Connection 0HMMLSN8P92GS established using the following protocol: "Tls13"
+2022-12-04 11:53:47.247 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - -
+2022-12-04 11:53:47.347 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-04 11:53:47.417 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2022-12-04 11:53:47.417 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 11:53:47.641 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-04 11:53:47.817 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - -
+2022-12-04 11:53:47.820 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-04 11:53:47.826 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 7.1688ms
+2022-12-04 11:53:47.826 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - - - 200 - text/html;charset=utf-8 589.8697ms
+2022-12-04 11:53:48.197 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - -
+2022-12-04 11:53:48.227 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.7402ms
+2022-12-04 11:53:48.819 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - -
+2022-12-04 11:53:48.820 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2022-12-04 11:53:48.820 +01:00 [DBG] Request did not match any endpoints
+2022-12-04 11:53:49.014 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 194.2558ms
+2022-12-04 11:54:04.873 +01:00 [DBG] Connection id "0HMMLSN8P92GT" accepted.
+2022-12-04 11:54:04.873 +01:00 [DBG] Connection id "0HMMLSN8P92GT" started.
+2022-12-04 11:54:04.892 +01:00 [DBG] Connection 0HMMLSN8P92GT established using the following protocol: "Tls13"
+2022-12-04 11:54:04.919 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 11:54:04.926 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:54:04.929 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:54:04.929 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:04.931 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:54:04.933 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:04.951 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:54:04.951 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:54:04.952 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:54:04.952 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:54:04.952 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:54:04.952 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:54:04.953 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:54:05.119 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-12-04 11:54:06.107 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:54:06.234 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:54:06.337 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaParkNumber>()
+    .Include("VillaPark")'
+2022-12-04 11:54:06.483 +01:00 [DBG] Including navigation: 'VillaParkNumber.VillaPark'.
+2022-12-04 11:54:06.751 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaParkNumber>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: VillaParkNumber.VillaParkNo (int) Required PK AfterSave:Throw, 0], [Property: VillaParkNumber.CreatedDate (DateTime) Required, 1], [Property: VillaParkNumber.SpecialDetails (string), 2], [Property: VillaParkNumber.UpdatedDate (DateTime) Required, 3], [Property: VillaParkNumber.VillaParkID (int) Required FK Index, 4] }
+            1 -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 5], [Property: VillaPark.Amenity (string), 6], [Property: VillaPark.CreatedDate (DateTime) Required, 7], [Property: VillaPark.Details (string), 8], [Property: VillaPark.ImageUrl (string), 9], [Property: VillaPark.Name (string) Required, 10], [Property: VillaPark.Occupancy (int) Required, 11], [Property: VillaPark.Rate (double) Required, 12], [Property: VillaPark.Sqft (int) Required, 13], [Property: VillaPark.UpdatedDate (DateTime) Required, 14] }
+        SELECT v.VillaParkNo, v.CreatedDate, v.SpecialDetails, v.UpdatedDate, v.VillaParkID, v0.Id, v0.Amenity, v0.CreatedDate, v0.Details, v0.ImageUrl, v0.Name, v0.Occupancy, v0.Rate, v0.Sqft, v0.UpdatedDate
+        FROM VillaParkNumbers AS v
+        INNER JOIN VillaParks AS v0 ON v.VillaParkID == v0.Id), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaParkNumber>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 11:54:06.816 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:54:06.868 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (48ms).
+2022-12-04 11:54:06.881 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:07.213 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:07.225 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:54:07.296 +01:00 [INF] Executed DbCommand (70ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:54:07.326 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:54:07.334 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:07.345 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:07.376 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:54:07.379 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 11:54:07.380 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:54:07.380 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:54:07.543 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 2583.5764ms
+2022-12-04 11:54:07.546 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:07.547 +01:00 [DBG] Connection id "0HMMLSN8P92GT" completed keep alive response.
+2022-12-04 11:54:07.553 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:54:07.558 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 67 application/json;+charset=utf-8 2638.5535ms
+2022-12-04 11:54:10.675 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 11:54:10.679 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:54:10.679 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:54:10.680 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:10.680 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:54:10.680 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:10.680 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:54:10.680 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:54:10.680 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:54:10.680 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:54:10.680 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:54:10.681 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:54:10.681 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:54:10.740 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:54:10.740 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:54:10.841 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:54:10.842 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:54:10.842 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:10.844 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:10.844 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:54:10.850 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:54:10.851 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:54:10.851 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:10.851 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:54:10.851 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:54:10.851 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 11:54:10.851 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:54:10.851 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:54:10.851 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 170.7818ms
+2022-12-04 11:54:10.851 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:54:10.851 +01:00 [DBG] Connection id "0HMMLSN8P92GT" completed keep alive response.
+2022-12-04 11:54:10.851 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:54:10.852 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 67 application/json;+charset=utf-8 176.5017ms
+2022-12-04 11:55:19.926 +01:00 [DBG] Connection id "0HMMLSN8P92GT" received FIN.
+2022-12-04 11:55:19.949 +01:00 [DBG] Connection id "0HMMLSN8P92GT" disconnecting.
+2022-12-04 11:55:19.956 +01:00 [DBG] Connection id "0HMMLSN8P92GT" sending FIN because: "The client closed the connection."
+2022-12-04 11:55:19.958 +01:00 [DBG] Connection id "0HMMLSN8P92GT" stopped.
+2022-12-04 11:55:42.072 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/VillaParkNumberApi/CreateVillaNumber application/json-patch+json 75
+2022-12-04 11:55:42.072 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/CreateVillaNumber'
+2022-12-04 11:55:42.072 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)' with route pattern 'api/VillaParkNumberApi/CreateVillaNumber' is valid for the request path '/api/VillaParkNumberApi/CreateVillaNumber'
+2022-12-04 11:55:42.072 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:55:42.074 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:55:42.078 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:55:42.095 +01:00 [INF] Route matched with {action = "CreateVillaNumber", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] CreateVillaNumber(VilllaParks.Model.Dto.VillaParkNoCreatDTO) on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:55:42.095 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:55:42.095 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:55:42.095 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:55:42.095 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:55:42.095 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:55:42.095 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:55:42.106 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:55:42.107 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:55:42.112 +01:00 [DBG] Attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' ...
+2022-12-04 11:55:42.115 +01:00 [DBG] Attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' using the name '' in request data ...
+2022-12-04 11:55:42.115 +01:00 [DBG] Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2022-12-04 11:55:42.116 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2022-12-04 11:55:42.126 +01:00 [DBG] Connection id "0HMMLSN8P92GS", Request id "0HMMLSN8P92GS:00000009": started reading request body.
+2022-12-04 11:55:42.126 +01:00 [DBG] Connection id "0HMMLSN8P92GS", Request id "0HMMLSN8P92GS:00000009": done reading request body.
+2022-12-04 11:55:42.190 +01:00 [DBG] Done attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:55:42.190 +01:00 [DBG] Done attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:55:42.190 +01:00 [DBG] Attempting to validate the bound parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' ...
+2022-12-04 11:55:42.200 +01:00 [DBG] Done attempting to validate the bound parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:55:42.213 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaParkNumber>()
+    .Where(u => u.VillaParkNo == __CreateDto_VillaParkNo_0)
+    .FirstOrDefault()'
+2022-12-04 11:55:42.240 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<VillaParkNumber>(
+    asyncEnumerable: new SingleQueryingEnumerable<VillaParkNumber>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaParkNumber.VillaParkNo (int) Required PK AfterSave:Throw, 0], [Property: VillaParkNumber.CreatedDate (DateTime) Required, 1], [Property: VillaParkNumber.SpecialDetails (string), 2], [Property: VillaParkNumber.UpdatedDate (DateTime) Required, 3], [Property: VillaParkNumber.VillaParkID (int) Required FK Index, 4] }
+            SELECT TOP(1) v.VillaParkNo, v.CreatedDate, v.SpecialDetails, v.UpdatedDate, v.VillaParkID
+            FROM VillaParkNumbers AS v
+            WHERE v.VillaParkNo == @__CreateDto_VillaParkNo_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaParkNumber>, 
+        VilllaParks.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2022-12-04 11:55:42.251 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:55:42.251 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:55:42.255 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.255 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.264 +01:00 [DBG] Executing DbCommand [Parameters=[@__CreateDto_VillaParkNo_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+WHERE [v].[VillaParkNo] = @__CreateDto_VillaParkNo_0
+2022-12-04 11:55:42.310 +01:00 [INF] Executed DbCommand (55ms) [Parameters=[@__CreateDto_VillaParkNo_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+WHERE [v].[VillaParkNo] = @__CreateDto_VillaParkNo_0
+2022-12-04 11:55:42.315 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:55:42.315 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.315 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.317 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaPark>()
+    .Where(u => u.Id == __CreateDto_VillaParkID_0)
+    .FirstOrDefault()'
+2022-12-04 11:55:42.321 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<VillaPark>(
+    asyncEnumerable: new SingleQueryingEnumerable<VillaPark>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: VillaPark.Amenity (string), 1], [Property: VillaPark.CreatedDate (DateTime) Required, 2], [Property: VillaPark.Details (string), 3], [Property: VillaPark.ImageUrl (string), 4], [Property: VillaPark.Name (string) Required, 5], [Property: VillaPark.Occupancy (int) Required, 6], [Property: VillaPark.Rate (double) Required, 7], [Property: VillaPark.Sqft (int) Required, 8], [Property: VillaPark.UpdatedDate (DateTime) Required, 9] }
+            SELECT TOP(1) v.Id, v.Amenity, v.CreatedDate, v.Details, v.ImageUrl, v.Name, v.Occupancy, v.Rate, v.Sqft, v.UpdatedDate
+            FROM VillaParks AS v
+            WHERE v.Id == @__CreateDto_VillaParkID_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaPark>, 
+        VilllaParks.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2022-12-04 11:55:42.322 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:55:42.322 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:55:42.322 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.322 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.322 +01:00 [DBG] Executing DbCommand [Parameters=[@__CreateDto_VillaParkID_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__CreateDto_VillaParkID_0
+2022-12-04 11:55:42.324 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[@__CreateDto_VillaParkID_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__CreateDto_VillaParkID_0
+2022-12-04 11:55:42.330 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:55:42.332 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.332 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:55:42.334 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:55:42.334 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-12-04 11:55:42.335 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-12-04 11:55:42.335 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-12-04 11:55:42.335 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-12-04 11:55:42.335 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:55:42.335 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.SerializableError'.
+2022-12-04 11:55:42.346 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks) in 251.0715ms
+2022-12-04 11:55:42.346 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:55:42.347 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:55:42.347 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/VillaParkNumberApi/CreateVillaNumber application/json-patch+json 75 - 400 39 application/json;+charset=utf-8 275.0161ms
+2022-12-04 11:56:10.894 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7001/api/VillaPark/GetVillaParks - -
+2022-12-04 11:56:10.896 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 11:56:10.896 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)' with route pattern 'api/VillaPark/GetVillaParks' is valid for the request path '/api/VillaPark/GetVillaParks'
+2022-12-04 11:56:10.898 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 11:56:10.899 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:56:10.902 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 11:56:10.913 +01:00 [INF] Route matched with {action = "GetVillaParks", controller = "VillaParkAPI"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParks() on controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks).
+2022-12-04 11:56:10.913 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:56:10.913 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:56:10.913 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:56:10.913 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:56:10.913 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:56:10.913 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 11:56:10.914 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:56:10.914 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkAPIController (VilllaParks)
+2022-12-04 11:56:10.915 +01:00 [INF] Getting all ParkVillas
+2022-12-04 11:56:10.916 +01:00 [DBG] Compiling query expression: 
+'DbSet<VillaPark>()'
+2022-12-04 11:56:10.921 +01:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<VillaPark>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: VillaPark.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: VillaPark.Amenity (string), 1], [Property: VillaPark.CreatedDate (DateTime) Required, 2], [Property: VillaPark.Details (string), 3], [Property: VillaPark.ImageUrl (string), 4], [Property: VillaPark.Name (string) Required, 5], [Property: VillaPark.Occupancy (int) Required, 6], [Property: VillaPark.Rate (double) Required, 7], [Property: VillaPark.Sqft (int) Required, 8], [Property: VillaPark.UpdatedDate (DateTime) Required, 9] }
+        SELECT v.Id, v.Amenity, v.CreatedDate, v.Details, v.ImageUrl, v.Name, v.Occupancy, v.Rate, v.Sqft, v.UpdatedDate
+        FROM VillaParks AS v), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, VillaPark>, 
+    VilllaParks.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2022-12-04 11:56:10.921 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:56:10.921 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:56:10.921 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:10.921 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:10.922 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 11:56:10.925 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+2022-12-04 11:56:10.990 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:11.087 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:11.087 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:11.091 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:11.091 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:56:11.091 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:11.091 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:11.098 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:56:11.098 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-12-04 11:56:11.098 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-12-04 11:56:11.098 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-12-04 11:56:11.098 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-12-04 11:56:11.098 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:56:11.098 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:56:11.108 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks) in 194.7376ms
+2022-12-04 11:56:11.108 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)'
+2022-12-04 11:56:11.108 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:56:11.108 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7001/api/VillaPark/GetVillaParks - - - 200 1165 application/json;+charset=utf-8 213.9996ms
+2022-12-04 11:56:46.638 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/VillaParkNumberApi/CreateVillaNumber application/json-patch+json 75
+2022-12-04 11:56:46.639 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/CreateVillaNumber'
+2022-12-04 11:56:46.639 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)' with route pattern 'api/VillaParkNumberApi/CreateVillaNumber' is valid for the request path '/api/VillaParkNumberApi/CreateVillaNumber'
+2022-12-04 11:56:46.639 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:56:46.640 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:56:46.641 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:56:46.641 +01:00 [INF] Route matched with {action = "CreateVillaNumber", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] CreateVillaNumber(VilllaParks.Model.Dto.VillaParkNoCreatDTO) on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:56:46.641 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:56:46.641 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:56:46.641 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:56:46.641 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:56:46.641 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:56:46.641 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:56:46.664 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:56:46.668 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:56:46.672 +01:00 [DBG] Attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' ...
+2022-12-04 11:56:46.673 +01:00 [DBG] Attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' using the name '' in request data ...
+2022-12-04 11:56:46.673 +01:00 [DBG] Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2022-12-04 11:56:46.673 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2022-12-04 11:56:46.673 +01:00 [DBG] Connection id "0HMMLSN8P92GS", Request id "0HMMLSN8P92GS:0000000D": started reading request body.
+2022-12-04 11:56:46.673 +01:00 [DBG] Connection id "0HMMLSN8P92GS", Request id "0HMMLSN8P92GS:0000000D": done reading request body.
+2022-12-04 11:56:46.673 +01:00 [DBG] Done attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:56:46.673 +01:00 [DBG] Done attempting to bind parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:56:46.674 +01:00 [DBG] Attempting to validate the bound parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO' ...
+2022-12-04 11:56:46.674 +01:00 [DBG] Done attempting to validate the bound parameter 'CreateDto' of type 'VilllaParks.Model.Dto.VillaParkNoCreatDTO'.
+2022-12-04 11:56:46.678 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:56:46.678 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:56:46.678 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.678 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.678 +01:00 [DBG] Executing DbCommand [Parameters=[@__CreateDto_VillaParkNo_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+WHERE [v].[VillaParkNo] = @__CreateDto_VillaParkNo_0
+2022-12-04 11:56:46.682 +01:00 [INF] Executed DbCommand (4ms) [Parameters=[@__CreateDto_VillaParkNo_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID]
+FROM [VillaParkNumbers] AS [v]
+WHERE [v].[VillaParkNo] = @__CreateDto_VillaParkNo_0
+2022-12-04 11:56:46.683 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:56:46.683 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.683 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.683 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:56:46.683 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:56:46.683 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.683 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.683 +01:00 [DBG] Executing DbCommand [Parameters=[@__CreateDto_VillaParkID_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__CreateDto_VillaParkID_0
+2022-12-04 11:56:46.686 +01:00 [INF] Executed DbCommand (2ms) [Parameters=[@__CreateDto_VillaParkID_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [v].[Id], [v].[Amenity], [v].[CreatedDate], [v].[Details], [v].[ImageUrl], [v].[Name], [v].[Occupancy], [v].[Rate], [v].[Sqft], [v].[UpdatedDate]
+FROM [VillaParks] AS [v]
+WHERE [v].[Id] = @__CreateDto_VillaParkID_0
+2022-12-04 11:56:46.686 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:46.686 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:56:46.686 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.686 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.810 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaParkNumber' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:46.833 +01:00 [DBG] SaveChanges starting for 'ApplicationDbContext'.
+2022-12-04 11:56:46.840 +01:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2022-12-04 11:56:46.886 +01:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2022-12-04 11:56:46.940 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.940 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:46.946 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2022-12-04 11:56:46.973 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2022-12-04 11:56:47.104 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:56:47.104 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:56:47.109 +01:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [VillaParkNumbers] ([VillaParkNo], [CreatedDate], [SpecialDetails], [UpdatedDate], [VillaParkID])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2022-12-04 11:56:47.121 +01:00 [INF] Executed DbCommand (12ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [VillaParkNumbers] ([VillaParkNo], [CreatedDate], [SpecialDetails], [UpdatedDate], [VillaParkID])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2022-12-04 11:56:47.133 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:56:47.149 +01:00 [DBG] Committing transaction.
+2022-12-04 11:56:47.161 +01:00 [DBG] Committed transaction.
+2022-12-04 11:56:47.173 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:47.173 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:56:47.186 +01:00 [DBG] Disposing transaction.
+2022-12-04 11:56:47.213 +01:00 [DBG] An entity of type 'VillaParkNumber' tracked by 'ApplicationDbContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:56:47.221 +01:00 [DBG] SaveChanges completed for 'ApplicationDbContext' with 1 entities written to the database.
+2022-12-04 11:56:47.231 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:56:47.231 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2022-12-04 11:56:47.231 +01:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2022-12-04 11:56:47.231 +01:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-12-04 11:56:47.231 +01:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-12-04 11:56:47.231 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:56:47.231 +01:00 [INF] Executing CreatedAtRouteResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:56:47.272 +01:00 [DBG] Found the endpoints ["VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)"] for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2022-12-04 11:56:47.292 +01:00 [DBG] Successfully processed template api/VillaPark/{id:int} for VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks) resulting in /api/VillaPark/201 and 
+2022-12-04 11:56:47.293 +01:00 [DBG] Link generation succeeded for endpoints ["VilllaParks.Controllers.VillaParkAPIController.GetVillaParks (VilllaParks)"] with result /api/VillaPark/201
+2022-12-04 11:56:47.296 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks) in 654.8354ms
+2022-12-04 11:56:47.296 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.CreateVillaNumber (VilllaParks)'
+2022-12-04 11:56:47.296 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:56:47.296 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/VillaParkNumberApi/CreateVillaNumber application/json-patch+json 75 - 201 466 application/json;+charset=utf-8 657.7832ms
+2022-12-04 11:57:05.272 +01:00 [DBG] Connection id "0HMMLSN8P92GU" accepted.
+2022-12-04 11:57:05.273 +01:00 [DBG] Connection id "0HMMLSN8P92GU" started.
+2022-12-04 11:57:05.302 +01:00 [DBG] Connection 0HMMLSN8P92GU established using the following protocol: "Tls13"
+2022-12-04 11:57:05.302 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - -
+2022-12-04 11:57:05.302 +01:00 [DBG] 1 candidate(s) found for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:57:05.303 +01:00 [DBG] Endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)' with route pattern 'api/VillaParkNumberApi/GetVillaParkNumbers' is valid for the request path '/api/VillaParkNumberApi/GetVillaParkNumbers'
+2022-12-04 11:57:05.303 +01:00 [DBG] Request matched endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:57:05.303 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2022-12-04 11:57:05.303 +01:00 [INF] Executing endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:57:05.303 +01:00 [INF] Route matched with {action = "GetVillaParkNumbers", controller = "VillaParkNoApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[VilllaParks.Model.Dto.ApiResponse]] GetVillaParkNumbers() on controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks).
+2022-12-04 11:57:05.303 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2022-12-04 11:57:05.303 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2022-12-04 11:57:05.303 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-12-04 11:57:05.303 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2022-12-04 11:57:05.303 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-12-04 11:57:05.303 +01:00 [DBG] Executing controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:57:05.304 +01:00 [INF] Entity Framework Core 6.0.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.1' with options: None
+2022-12-04 11:57:05.304 +01:00 [DBG] Executed controller factory for controller VilllaParks.Controllers.VillaParkNoApiController (VilllaParks)
+2022-12-04 11:57:05.304 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2022-12-04 11:57:05.304 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2022-12-04 11:57:05.304 +01:00 [DBG] Opening connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:57:05.304 +01:00 [DBG] Opened connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:57:05.304 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:57:05.308 +01:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [v].[VillaParkNo], [v].[CreatedDate], [v].[SpecialDetails], [v].[UpdatedDate], [v].[VillaParkID], [v0].[Id], [v0].[Amenity], [v0].[CreatedDate], [v0].[Details], [v0].[ImageUrl], [v0].[Name], [v0].[Occupancy], [v0].[Rate], [v0].[Sqft], [v0].[UpdatedDate]
+FROM [VillaParkNumbers] AS [v]
+INNER JOIN [VillaParks] AS [v0] ON [v].[VillaParkID] = [v0].[Id]
+2022-12-04 11:57:05.308 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaParkNumber' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:57:05.308 +01:00 [DBG] Context 'ApplicationDbContext' started tracking 'VillaPark' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-12-04 11:57:05.314 +01:00 [DBG] A data reader was disposed.
+2022-12-04 11:57:05.314 +01:00 [DBG] Closing connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:57:05.314 +01:00 [DBG] Closed connection to database 'VillaPark_Db' on server '.'.
+2022-12-04 11:57:05.314 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-12-04 11:57:05.314 +01:00 [DBG] Attempting to select an output formatter based on Accept header '["application/json"]'.
+2022-12-04 11:57:05.314 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-12-04 11:57:05.314 +01:00 [INF] Executing OkObjectResult, writing value of type 'VilllaParks.Model.Dto.ApiResponse'.
+2022-12-04 11:57:05.314 +01:00 [INF] Executed action VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks) in 11.0449ms
+2022-12-04 11:57:05.314 +01:00 [INF] Executed endpoint 'VilllaParks.Controllers.VillaParkNoApiController.GetVillaParkNumbers (VilllaParks)'
+2022-12-04 11:57:05.314 +01:00 [DBG] Connection id "0HMMLSN8P92GU" completed keep alive response.
+2022-12-04 11:57:05.314 +01:00 [DBG] 'ApplicationDbContext' disposed.
+2022-12-04 11:57:05.314 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7001/api/VillaParkNumberApi/GetVillaParkNumbers - - - 200 468 application/json;+charset=utf-8 11.7948ms
+2022-12-04 11:57:26.656 +01:00 [DBG] Connection id "0HMMLSN8P92GS" received FIN.
+2022-12-04 11:57:26.656 +01:00 [DBG] Connection id "0HMMLSN8P92GS" is closed. The last processed stream ID was 13.
+2022-12-04 11:57:26.656 +01:00 [DBG] Connection id "0HMMLSN8P92GS" sending FIN because: "The client closed the connection."
+2022-12-04 11:57:26.658 +01:00 [DBG] Connection id "0HMMLSN8P92GS" stopped.
+2022-12-04 13:41:33.200 +01:00 [DBG] Connection id "0HMMLSN8P92GU" received FIN.
+2022-12-04 13:41:33.200 +01:00 [DBG] Connection id "0HMMLSN8P92GU" sending FIN because: "The client closed the connection."
+2022-12-04 13:41:33.201 +01:00 [DBG] Connection id "0HMMLSN8P92GU" disconnecting.
+2022-12-04 13:41:33.201 +01:00 [DBG] Connection id "0HMMLSN8P92GU" stopped.

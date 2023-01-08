@@ -1,0 +1,262 @@
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfo.cs
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\appsettings.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\VilllaParks.exe
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\VilllaParks.deps.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\VilllaParks.runtimeconfig.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\VilllaParks.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\VilllaParks.pdb
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\scopedcss\bundle\VilllaParks.styles.css
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CopyComplete
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\refint\VilllaParks.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.pdb
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\VilllaParks.genruntimeconfig.cache
+C:\Users\Decagon\source\apiProjects\VilllaParks\obj\Debug\net6.0\ref\VilllaParks.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Decagon\source\apiProjects\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\appsettings.Development.json
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\appsettings.json
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.exe
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.deps.json
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.runtimeconfig.json
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.pdb
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\AutoMapper.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Humanizer.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.AssemblyReference.cache
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.GeneratedMSBuildEditorConfig.editorconfig
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfoInputs.cache
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfo.cs
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CoreCompileInputs.cache
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cs
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cache
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.VilllaParks.Microsoft.AspNetCore.StaticWebAssets.props
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.build.VilllaParks.props
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VilllaParks.props
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VilllaParks.props
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.pack.json
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.build.json
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.development.json
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\scopedcss\bundle\VilllaParks.styles.css
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CopyComplete
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.dll
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\refint\VilllaParks.dll
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.pdb
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.genruntimeconfig.cache
+E:\VillaProject\VilllaParks\obj\Debug\net6.0\ref\VilllaParks.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\appsettings.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.exe
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.deps.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.runtimeconfig.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\VilllaParks.pdb
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.AssemblyReference.cache
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfoInputs.cache
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.AssemblyInfo.cs
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CoreCompileInputs.cache
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.VilllaParks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.build.VilllaParks.props
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VilllaParks.props
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VilllaParks.props
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\scopedcss\bundle\VilllaParks.styles.css
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.csproj.CopyComplete
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\refint\VilllaParks.dll
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.pdb
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\VilllaParks.genruntimeconfig.cache
+C:\Users\Doris Dunu\OneDrive\Desktop\VillaProject\VilllaParks\obj\Debug\net6.0\ref\VilllaParks.dll
